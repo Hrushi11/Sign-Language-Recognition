@@ -33,3 +33,7 @@ streamlit run app.py
 
 ![IMG](https://github.com/Hrushi11/Sign-Language-Recognition/blob/main/assets/wrng_pred_1.png?raw=true)
 
+**Web app:**
+
+![IMG](https://github.com/Hrushi11/Sign-Language-Recognition/blob/main/assets/app.jpg?raw=true)
+
